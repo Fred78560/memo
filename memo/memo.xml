@@ -1,0 +1,6 @@
+<item>écrire un mémo<tag>data.memo="on"</tag></item>
+<item>lis les mémo<tag>data.memo="liste"; </tag></item>
+<item>efface les mémo<tag>data.memo="vide"; </tag></item>
+
+<item>envoie-moi la liste mémo<tag>data.memo="pushliste"</tag></item>
+

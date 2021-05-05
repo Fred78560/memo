@@ -35,7 +35,7 @@ if (data.memo=="vide"){
 
 if (data.memo == "pushliste"){
  JarvisIA.reco= "envoie une notification à fred "+jsonStr
- JarvisIARun(['sendsms','data.destinataire="fred",data.numero="0638948529",data.pharsesms="envoie une notification à fred"'])
+ JarvisIARun(['sendsms','data.destinataire="fred",data.numero="XXXXXXXXXX",data.pharsesms="envoie une notification à fred"'])
 return 
 }//fin if
 return
